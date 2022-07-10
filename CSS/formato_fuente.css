@@ -1,0 +1,13 @@
+h1{
+  font-family: "Comic Sans MS, sans-serif"
+}
+p{
+  font-family: Calibri, sans-serif;
+  font-size: 1.5em;
+}
+h1, p{
+  margin: auto;
+}
+body{
+  background-color: #f4d9a7;
+}
